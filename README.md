@@ -29,6 +29,26 @@ This will be my personal journal to help me document my learnings. I am taking [
 ### Day 0: September 5th, 2017, Tuesday
 
 **Today's Progress/What I learned**:
--
+
+
+- Learned more about MongoDB and RESTful routes by completing a simple blog app. 
+  - Learned the difference between SQL and noSQL(MongoDB) databases. 
+- Learned about some of the resoucres needed to build a Digital Agency.
+- Complete Developer Podcast explained skill every web dev needs
+  - API's, AJAX, and Callbacks
+  - SQL databases
+  - OWASP Development Guide
+  - Data Structures
+  - Modelling
+  - SEO
+
+**Thoughts:**
+- Today was a great day. The simple blog app helped me gained a better understanding of RESTful routes. There were a lot of steps but it wasn't too bad. I'm highly motiviated to compelete the Web Developer Bootcamp course this course. Complete Developer Podcast gave me a great outline on skill's to research more in the future. 
+------------
+
+### Day 1: September 6th, 2017, Wednesday
+
+**Today's Progress/What I learned**:
+
 **Thoughts:**
 ------------

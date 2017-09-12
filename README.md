@@ -7,7 +7,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 |  Start Date | End Date |
 | ------------ | ------------ |
-| September 5th, 2017 | -----------|
+| September 11th, 2017 | -----------|
 
 ## My Coding Goals
 - Continue to code daily until hired
@@ -26,7 +26,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 ## Progress Log
 
-### Day 0: September 5th, 2017, Tuesday
+### Day 0: September 11th, 2017, Monday
 
 **Today's Progress/What I learned**:
 
@@ -46,7 +46,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 - Today was a great day. The simple blog app helped me gained a better understanding of RESTful routes. There were a lot of steps but it wasn't too bad. I'm highly motiviated to compelete the Web Developer Bootcamp course this course. Complete Developer Podcast gave me a great outline on skill's to research more in the future. 
 ------------
 
-### Day 1: September 6th, 2017, Wednesday
+### Day 1: September 12th, 2017, Tuesday
 
 **Today's Progress/What I learned**:
 

@@ -50,5 +50,17 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 **Today's Progress/What I learned**:
 
+
+- Learned about authentication using PassportJS.
+
 **Thoughts:**
+- Wasn't able to get much done today. Will finish up the rest of the authentication for my YelpCamp Project tomorrow. 
+------------
+
+### Day 2: September 13th, 2017, Wednesday
+
+**Today's Progress/What I learned**:
+
+**Thoughts:**
+
 ------------

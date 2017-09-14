@@ -61,6 +61,20 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 **Today's Progress/What I learned**:
 
-**Thoughts:**
 
+- Learned more about authentication and how to implement it into projects. 
+
+**Thoughts:**
+- Again, I didn't do much today but I am closer to finishing the authentication section of my YelpCamp Project. Will hopefully finish today and start on the next section which is refactoring some of the code. 
+------------
+
+### Day 3: September 14th, 2017, Thursday
+
+**Today's Progress/What I learned**:
+
+
+-
+
+**Thoughts:**
+-
 ------------

@@ -73,6 +73,18 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Today's Progress/What I learned**:
 
 
+- Finished adding authentication for YelpCamp.
+- Started refactoring the routes for YelpCamp.
+
+**Thoughts:**
+- Didn't spend too much time today but I was able to compelete the final portion of the authentication section for YelpCamp Project. Also did some refactoring of the routes page for the same app. Learned the different techniques to connect routes on different file pages and cleaning up the app.js file. Tomorrow will finish some more cleaning up and ready YDKJS.  
+------------
+
+### Day 4: September 15th, 2017, Friday
+
+**Today's Progress/What I learned**:
+
+
 -
 
 **Thoughts:**

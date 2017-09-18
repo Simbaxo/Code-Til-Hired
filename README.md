@@ -85,6 +85,46 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Today's Progress/What I learned**:
 
 
+- Completed Chapter 3: Function vs Block Scope on YDKJS: Scopes & Closures.
+  - Scope From Functions
+  - Hiding In Plain Scope
+  - Collision Avoidance
+  - Functions as Scopes
+  - Blocks As Scopes
+- Completed Chapter 4: Hoisting on YDKJS: Scopes & Closures. 
+  - Functions First
+
+**Thoughts:**
+- Spent my coding time today reading more about JavaScript. Learned more about functions and their scopes. Functions are the most common unit of scope in JS. Variables and functions that are declared inside another function are essentially "hidden" fro any of the enclosing "scopes". Block-scope refers to the idea that variables and functions can belong to an arbitrary block of code, rather than only to the enclosing function.
+- All declarations in a scope, regardless of where they appear, are processed first before the code itself is executed. You can visualize this as declarations (variables and functions) being "moved" to the top of their respective scopes, which we call "hoisting". Declarations themselves are hoisted, but assignments, even assignments of function expressions, are not hoisted. 
+------------
+
+### Day 5: September 16th, 2017, Saturday
+
+**Today's Progress/What I learned**:
+
+
+- Attended a React workshop and built a basic app.
+  - [React Powerpoint Slideshow](https://kucharskimaciej.github.io/devmeetings-react-redux-workshop/#/)
+  
+**Thoughts:**
+- The workshop was pretty cool but I knew most of the things which gave me confidence in my abilities. 
+------------
+
+### Day 6: September 17th, 2017, Sunday
+
+**Today's Progress/What I learned**:
+
+
+- Went over powerpoint from React workshop.
+
+**Thoughts:**
+- Today was a slow day as far as coding. Didn't accomplish much but I hope to step it up in the next coming days.
+------------
+
+### Day 7: September 18th, 2017, Monday
+
+
 -
 
 **Thoughts:**

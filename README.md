@@ -125,8 +125,18 @@ This will be my personal journal to help me document my learnings. I am taking [
 ### Day 7: September 18th, 2017, Monday
 
 
--
+- Prevented an unauthenticated user from creating a campground in YelpCamp Project.
+- Save username + id to newly created campground
 
 **Thoughts:**
+- Pretty simple process to prevent an unauthenticated user from creating a campground. However, I do need more practice on saving the username/id to the newly created campground. That process took a couple more steps and some which I didn't full grasp yet. 
+------------
+
+### Day 8: September 19th, 2017, Tuesday
+
+
+-
+
+**Thoughts**
 -
 ------------

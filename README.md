@@ -135,6 +135,17 @@ This will be my personal journal to help me document my learnings. I am taking [
 ### Day 8: September 19th, 2017, Tuesday
 
 
+- Learned how to add Edit Route
+- Learned how to add Destroy Route
+- Added Authorization to both Edit and Destroy buttons
+  - Learned the difference betweent Authenitcation & Authorization
+
+**Thoughts**
+- Spent a good chunck of time creating the routes for edit and destroy. User now have the ability to do both. Authorization was added so only certain users will be able to edit and delete campgrounds. Both buttons are also hidden until the correct user is logged in. This is achieved through authorization. Tommorrow I add the same features to the comments section of the YelpCamp app.
+------------
+
+### Day 9: September 20th, 2017, Wednesday
+
 -
 
 **Thoughts**

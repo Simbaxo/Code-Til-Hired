@@ -146,6 +146,14 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 ### Day 9: September 20th, 2017, Wednesday
 
+- Applied Edit & Destroy routes and buttons.
+
+**Thoughts**
+- Same thing as yesterday, just applied those features to the comments section. Was good practice doing it a second time and getting more comfortable with it. Tomorrow I will do some refactoring. 
+------------
+
+### Day 10: September 21st, 2017, Thursday
+
 -
 
 **Thoughts**

@@ -154,6 +154,15 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 ### Day 10: September 21st, 2017, Thursday
 
+- Refactor the middleware.
+- Added flash messages with Bootstrap styling.
+
+**Thoughts**
+- Light day. The middleware refactor helped my application look much better. Adding the flash messages was a bit challenging and took my steps than I anticipated. It is much easier to add them on Rails. Overall it was a good day. 
+------------
+
+### Day 11: September 22nd, 2017, Friday
+
 -
 
 **Thoughts**

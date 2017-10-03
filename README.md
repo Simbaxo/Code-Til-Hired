@@ -163,6 +163,97 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 ### Day 11: September 22nd, 2017, Friday
 
+- Helpful error messages for YelpCamp
+
+**Thoughts**
+- There was a spelling mistake that was causing my error messages to not display. Once I noticed this I was able to get the error messages displaying correctly with the bootstrap styling. Lesson to be learned here is that pay attention to spelling and if I don't see it right away, take a break and come back to the application.
+------------
+
+### Day 12: September 23rd, 2017, Saturday
+
+- Started a React App called IversonTube
+  - Implemented the YouTube API
+
+**Thoughts**
+- I cloned Stephen Grider's ReduxSimpleStarter to use as a boilerplate for my React App called IversonTube. Learned how to add the YouTube API search using node package manager. 
+------------
+
+### Day 13: September 24th, 2017, Sunday
+
+- Searchbar feature to IversonTube
+
+**Thoughts**
+- Created a new component for the IversonTube app called searchbar. This component displays a search/input box in the application. In the future this will allow users to search and request data from the YouTube API. 
+------------
+
+### Day 14: September 25th, 2017, Monday
+
+- Learned about Class based components in React
+
+**Thoughts**
+- Learned alot more about components including class based components. Components let you split the UI into independent reusable pieces. You can define a component by writing a JavaScript function. You can also define components using a ES6 Class. 
+------------
+
+### Day 15: September 26th, 2017, Tuesday
+
+- Handling user events in React
+
+**Thoughts**
+- Added console.log to show the output we get when a user inputs something in the searchbar. Each time a change happens the console logs the value of that change. 
+------------
+
+### Day 16: September 27th, 2017, Wednesday
+
+- Controlled Components in React
+
+**Thoughts**
+- Added a local state to the class component. Will have to come back to this to get a greater context. 
+------------
+
+### Day 17: September 28th, 2017, Thursday
+
+- Refactoring functional components in IversonTube 
+- Learned about props
+
+**Thoughts**
+- Added the API Key in order to pull data from the keywords "Allen Iverson" in the YouTube API. 
+------------
+
+### Day 18: September 29th, 2017, Friday
+
+- Creating a static site using GatsbyJS
+
+**Thoughts**
+- GatsbyJS seems like an amazing tool that I will probably be utilizing alot to create static sites using React. GatsbyJS is basically just a Progressive Web App generator for building static sites. In the future I plan on using this to create my Porfolio Page.
+------------
+
+### Day 19: September 30th, 2017, Saturday
+
+- Created Video list items and details for IversonTube
+
+**Thoughts**
+- Created 2 more components to display a list of the Iverson videos and also display the details for each video. 
+------------
+
+### Day 20: October 1st, 2017, Sunday
+
+- Update error handling and middleware for campgrounds and comments for YelpCamp
+
+**Thoughts**
+- There was a security error that caused the application to break if you changed the Campgrounds and Comments ID for the app. 
+------------
+
+### Day 21: October 2nd, 2017, Monday
+
+- Full Screen Background image slider for YelpCamp
+- Dynamic Price feature for YelpCamp
+
+**Thoughts**
+- Improved the landing page for the app. It now has a full screen background image slider that changes every 10 secs. The animation causes the images to fade into each other giving it a really nice effect. 
+------------
+
+### Day 22: October 3rd, 2017, Tuesday
+
 -
 
 **Thoughts**

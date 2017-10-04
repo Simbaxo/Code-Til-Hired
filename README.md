@@ -19,6 +19,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 | No  |  Project Title  |  Completed On |
 | :------------: | ------------ | :------------: |
+| 1 | YelpCamp | Oct. 3, 2017 |
 
 ## Completed Books
 | No  |  Book Title  |  Completed On |
@@ -253,6 +254,14 @@ This will be my personal journal to help me document my learnings. I am taking [
 ------------
 
 ### Day 22: October 3rd, 2017, Tuesday
+
+- Deployed YelpCamp app to Heroku
+
+**Thoughts**
+- Finally got my YelpCamp project live on Heroku. I still have some more features that I am looking forward to implement but atleast the site is live now and people are able to view it. 
+------------
+
+### Day 23: October 4th, 2017, Wednesday
 
 -
 

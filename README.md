@@ -263,6 +263,14 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 ### Day 23: October 4th, 2017, Wednesday
 
+- Moment JS added to YelpCamp
+
+**Thoughts**
+- Fixed an issue that caused the show page not to display due to the jquery cdn. Updated the jquery cdn and that fixed the issue. Added moment js to show the time a campground or comment was created. Attempted to add maps to the campground but was helping trouble with that. Will have to come back to it soon.
+------------
+
+### Day 24: October 5th, 2017, Thursday
+
 -
 
 **Thoughts**

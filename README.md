@@ -271,6 +271,15 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 ### Day 24: October 5th, 2017, Thursday
 
+- JS Form Validation
+- Hello World in ECMAScript
+
+**Thoughts**
+- Went to a meetup to learn JavaScript. They showed examples about JS Form Validation with validation expresssions and the conditions. Was also able to do my first submission to exercism ecmascript. Hello World is written in a different syntax but I was able to learn it after looking at others solution. Looking forward to doing more exerices in exercism to gain more knowledge of ecmascipt. 
+------------
+
+### Day 25: October 6th, 2017, Friday
+
 -
 
 **Thoughts**

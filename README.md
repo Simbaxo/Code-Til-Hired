@@ -280,8 +280,8 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 ### Day 25: October 6th, 2017, Friday
 
--
+- Took a break to relax.
 
 **Thoughts**
--
+- Didn't do much today except relax. Did read a few articles on JavaScript and React.
 ------------

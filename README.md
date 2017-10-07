@@ -285,3 +285,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Didn't do much today except relax. Did read a few articles on JavaScript and React.
 ------------
+
+### Day 26: October 7th, 2017, Saturday
+
+-
+
+**Thoughts**
+-
+------------

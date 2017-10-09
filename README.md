@@ -288,6 +288,14 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 ### Day 26: October 7th, 2017, Saturday
 
+- GatsbyJS
+
+**Thoughts**
+- Was able to set up static blog site using GatsbyJS. Need more practice with React and GraphQL to get a better understanding of what exactly GatsbyJS is doing and how it is helping me build these static sites.
+------------
+
+### Day 27: October 8th, 2017, Sunday
+
 -
 
 **Thoughts**

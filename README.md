@@ -296,6 +296,15 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 ### Day 27: October 8th, 2017, Sunday
 
+- CSS styles in React
+- Searchbar in IversonTube
+
+**Thoughts**
+- I learned how to add some styles to React. I've seen this done before but this is the first time I've seen them done in an actually css file instead of the directly in a component. I also made improvements to the IversonTube app to allow users to type in the searchbar and have the results of their request show up automatically.
+------------
+
+### Day 28: Octover 9th, 2017, Monday
+
 -
 
 **Thoughts**

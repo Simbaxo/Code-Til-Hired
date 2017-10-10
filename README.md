@@ -305,8 +305,8 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 ### Day 28: Octover 9th, 2017, Monday
 
--
+- Throttling search term input for IversonTube
 
 **Thoughts**
--
+- I learned how to throttle user input in React to help make IversonTube search more user friendly. I completed IversonTube which is just a basic Youtube clone app. 
 ------------

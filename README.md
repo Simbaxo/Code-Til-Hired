@@ -303,10 +303,19 @@ This will be my personal journal to help me document my learnings. I am taking [
 - I learned how to add some styles to React. I've seen this done before but this is the first time I've seen them done in an actually css file instead of the directly in a component. I also made improvements to the IversonTube app to allow users to type in the searchbar and have the results of their request show up automatically.
 ------------
 
-### Day 28: Octover 9th, 2017, Monday
+### Day 28: October 9th, 2017, Monday
 
 - Throttling search term input for IversonTube
 
 **Thoughts**
 - I learned how to throttle user input in React to help make IversonTube search more user friendly. I completed IversonTube which is just a basic Youtube clone app. 
+------------
+
+### Day 29: October 10th, 2017, Tuesday
+
+- First 5 days of 30 Days of React
+- Started on Catch of the Day app by Wes Bos
+
+**Thoughts**
+- It was super super super helpful reading 30 Days of React book and taking notes. Learned alot more about React which makes it easier now to watch the video tutorials. I definitely came off with a better understanding of React and I will continue to read the book in the morning and practice the tutorial at night. 
 ------------

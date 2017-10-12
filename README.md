@@ -319,3 +319,18 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - It was super super super helpful reading 30 Days of React book and taking notes. Learned alot more about React which makes it easier now to watch the video tutorials. I definitely came off with a better understanding of React and I will continue to read the book in the morning and practice the tutorial at night. 
 ------------
+
+### Day 30: October 11th, 2017, Wednesday
+
+- Created a couple of components for Catch of the Day app
+- Learned about React props
+  - React allows us to send data to a component in the same syntax as HTML
+  - Access props by passing this.props inside a component
+- Learned about state in React
+  - State in a component is completely internal to that component
+  - Can be accessed by this.state
+  - Can be set by this.setState()
+
+**Thoughts**
+- Made a couple of simple components for Wes Bos course. The challenge for the day was getting emmett to work with VS Code and unforuntately I was unsuccessful. Continued reading 30 Days of React book and learned about props and state. I can fully understand props now but I still need some more practical examples of state and when/how to use it. 
+------------

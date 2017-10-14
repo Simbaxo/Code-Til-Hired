@@ -334,3 +334,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Made a couple of simple components for Wes Bos course. The challenge for the day was getting emmett to work with VS Code and unforuntately I was unsuccessful. Continued reading 30 Days of React book and learned about props and state. I can fully understand props now but I still need some more practical examples of state and when/how to use it. 
 ------------
+
+### Day 31: October 12th, 2017, Thursday
+
+- Working on Catch of the Day app
+
+**Thoughts**
+- Didn't do much today but create a couple more components for Catch of the Day app.
+------------

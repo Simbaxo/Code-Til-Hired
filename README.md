@@ -342,3 +342,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Didn't do much today but create a couple more components for Catch of the Day app.
 ------------
+
+### Day 32: October 13th, 2017, Friday
+
+- VS Code Tutorials
+
+**Thoughts**
+- Didn't do much coding today due to a friends birthday. Watch a couple of tutorials to understand how VS Code works better.
+------------

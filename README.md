@@ -350,3 +350,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Didn't do much coding today due to a friends birthday. Watch a couple of tutorials to understand how VS Code works better.
 ------------
+
+### Day 33: October 14th, 2017, Saturday
+
+- Stateless functional components on Catch of the Day app
+
+**Thoughts**
+- Learned that if I'm creating a component that is only going to render something, I can make it a stateless functional component. Helps you reduce and write more clean code for your projects. No classes needed or this codeword. 
+------------

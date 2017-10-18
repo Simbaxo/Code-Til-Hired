@@ -358,3 +358,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Learned that if I'm creating a component that is only going to render something, I can make it a stateless functional component. Helps you reduce and write more clean code for your projects. No classes needed or this codeword. 
 ------------
+
+### Day 34: October 15th, 2017, Sunday
+
+- Reading 30 Days of React
+
+**Thoughts**
+- Another day of relaxing. Took a break from actual coding and do some light reading.
+------------

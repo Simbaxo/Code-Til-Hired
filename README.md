@@ -366,3 +366,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Another day of relaxing. Took a break from actual coding and do some light reading.
 ------------
+
+### Day 35: October 16th, 2017 Monday
+
+- Working with Events in React
+
+**Thoughts**
+- Learned a new way to grab information from an form input using events in React. A little confusing but looks like it's just one of those things that will get better with practice.
+------------

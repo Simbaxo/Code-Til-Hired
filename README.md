@@ -374,3 +374,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Learned a new way to grab information from an form input using events in React. A little confusing but looks like it's just one of those things that will get better with practice.
 ------------
+
+### Day 36: October 17th, 2017 Tuesday
+
+- Reading Javascript Functions
+
+**Thoughts**
+- Light reading on basic Javascript functions as a refresher.
+------------

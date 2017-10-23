@@ -382,3 +382,12 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Light reading on basic Javascript functions as a refresher.
 ------------
+
+### Day 37: October 22nd, 2017 Sunday
+
+- State in React
+- React Router
+
+**Thoughts**
+- Took a break for a couple of days but started back up on Sunday. Continuing Wes Bos React course. Learned more about setting state in React and got React Router to work. 
+------------

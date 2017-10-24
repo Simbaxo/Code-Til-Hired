@@ -391,3 +391,13 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Took a break for a couple of days but started back up on Sunday. Continuing Wes Bos React course. Learned more about setting state in React and got React Router to work. 
 ------------
+
+### Day 38: October 23rd, 2017 Monday
+
+- Load data into state using onClick for Catch-of-the-Day app
+- JSON and BSON file types
+- MongoDB basics
+
+**Thoughts**
+- Started the day by going over the offical React docs and taking notes. Also started Week 1 of MongoDB University course and learned about the basics of MongoDB, how it stores and retrives data. Ended the day by learning how to load data into state using the onClick method. 
+------------

@@ -401,3 +401,17 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Started the day by going over the offical React docs and taking notes. Also started Week 1 of MongoDB University course and learned about the basics of MongoDB, how it stores and retrives data. Ended the day by learning how to load data into state using the onClick method. 
 ------------
+
+### Day 39: October 24th, 2017 Tuesday
+
+- MongoDB Univeristy
+  - Hello World in Node.js
+  - Hello World using Express
+  - Hello World using Express Templates
+  - Handling GET Requests in Express
+  - Handling POST Requests in Express
+- Displaying State with JSX in Catch of the day app
+
+**Thoughts**
+- Did alot of review work on NodeJS and Express on MongoDB University course. Also learned how to display state with JSX in Wes Bos React course.
+------------

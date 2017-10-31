@@ -415,3 +415,100 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Did alot of review work on NodeJS and Express on MongoDB University course. Also learned how to display state with JSX in Wes Bos React course.
 ------------
+
+### Day 40: October 25th, 2017 Wednesday
+
+- Intro to Gatsby.js
+  - Creating a Gatsby site from scratch
+  - Linking between pages
+  - Interactivity to pages
+  - Deploying Gatsby.js websites to the web using Surge
+
+**Thoughts**
+- Got a great intoduction into Gatsby.js by reading/doing their official tutorials. Giving me more confidence in my abilites and a better understand of React. Will hopefully be able to build my own Portfolio site soon using Gatsby.
+------------
+
+### Day 41: October 26th, 2017 Thursday
+
+- Intro to using CSS in Gatsby
+  - Building with components
+  - Creating global styles
+    - Typography.js
+  - Gatsby plugins
+    - Bootstrap Theme
+    - Lawton Theme
+    - Sass
+  - Component CSS
+  - CSS Modules
+    - Glamor
+  - Styled Components
+  
+**Thoughts**
+- Today I learned the various ways I can you can implement CSS in React and Gatsby. Great overview since I'm not that confident with CSS yet.
+------------
+
+### Day 42: October 27th, 2017 Friday
+
+- Explore building nested layouts in Gatsby
+  - First layout component
+
+**Thoughts**
+- Short day but did learn some valuable things. Gatsby lets you create layout components for sections of your site that you want to share across multiple pages for example the header, footer, sidebar, and naviagation menu. 
+------------
+
+### Day 43: October 28th, 2017 Saturday
+
+- React Dos
+  - Hello World
+  - Into JSX
+    - Embedding Expressions in JSX
+    - Specifying Attributes with JSX
+    - Specifying Children with JSX
+  - Rendering Elements
+    - Rendering an Element into the DOM
+    - Updating the Rendered Element
+  - Components and Props
+    - Functional and Class Components
+    - Rendering a Component
+    - Composing Components
+    - Extracting Components
+
+**Thoughts**
+- I went through the offical React docs to get a better understand of React's basics. I also found it better that I take notes because I retain more information that way. 
+------------
+
+### Day 44: October 29th, 2017 Sunday
+
+- React Docs
+  - State and Lifecycle
+    - Converting a Function to a Class
+    - Adding Local State to a Class
+    - Adding Lifecycle Methods to a Class
+  - Handling Events
+    - Passing Arguments to Event Handlers
+  - Conditional Rendering
+    - Element Variables
+    - Inline If with Logical && Operator
+    - Inline If-Else with Conditional Operator
+    - Preventing Component from Rendering
+  - Lists and Keys
+    - Rendering Multiple Components
+    - Basic List Component
+    - Keys
+    - Extracting Components with Keys
+    - Keys Must Only Be Unique Among Siblings
+    - Embedding map() in JSX
+
+**Thoughts**
+- Another day of React docs. Got a couple of more to do to finish the Quick Start section. 
+------------
+
+### Day 45: October 30th, 2017 Monday
+
+- Learn how to work with Gatsby's data layer
+  - How Gatsby's data layer uses GraphQL to pull data into components
+  - First GraphQL query
+
+**Thoughts**
+- Did the first half of this tutorial. Alot of information in this one. Gatsby's data layer lets us pull data directly into our components in the shape and form we want. GraphQL is a query language. Gatsby's uses GraphyQL to let components declare the data it needs and then gives this data to components. 
+------------

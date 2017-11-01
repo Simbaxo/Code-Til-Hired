@@ -512,3 +512,12 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Did the first half of this tutorial. Alot of information in this one. Gatsby's data layer lets us pull data directly into our components in the shape and form we want. GraphQL is a query language. Gatsby's uses GraphyQL to let components declare the data it needs and then gives this data to components. 
 ------------
+
+### Day 46: October 31st, 2017 Tuesday
+
+- Intro to GraphiQL
+- Build a page with GraphQL query
+
+**Thoughts**
+- GraphiQL is GraphQL IDE that encompasses the browsers viewpoint. 
+------------

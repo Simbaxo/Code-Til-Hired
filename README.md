@@ -521,3 +521,20 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - GraphiQL is GraphQL IDE that encompasses the browsers viewpoint. 
 ------------
+
+### Day 47: November 1st, 2017 Wednesday
+
+- FreeCodeCamp Basic JavaScript
+  - Selecting from many options with Switch Statements
+  - Adding a default option in Switch Statements
+  - Multiple Identical Options in Switch Statements
+  - Replacing If Else Chains with Switch
+  - Returning Boolean Values from Functions
+  - Return Early Pattern for Functions
+  - Counting Cards
+  - Build JS Objects
+  - Accessing Objects Properties with the Dot Operator and Bracket Notation
+  
+**Thoughts**
+- Went back and redid some basic javascript lesson's on freecodecamp to prepare me for the weather api project. I learned more about switch statements and how to research information online when I don't know the answer. 
+------------

@@ -538,3 +538,19 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Went back and redid some basic javascript lesson's on freecodecamp to prepare me for the weather api project. I learned more about switch statements and how to research information online when I don't know the answer. 
 ------------
+
+### Day 48: November 2nd, 2017 Thursday
+
+- FreeCodeCamp Basic JavaScript
+  - Updating Object Properties
+  - Add New/Delete Properties to a JS Object
+  - Using Objects for Lookups
+  - Testing Objects for Properties
+  - Manipulating Complex Objects
+  - Acessing Nested Objects and Arrays
+  - Iterate with JS for Loops with even and odd numbers
+  - Count backwards with a For Loop
+  
+**Thoughts**
+- More of the same of yesterday. My goal for the rest of the year is to earn my FCC Front End Certificate. I would like to have it by December but to be more realistic with my time, I will give myself until January 1st. 
+------------

@@ -554,3 +554,24 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - More of the same of yesterday. My goal for the rest of the year is to earn my FCC Front End Certificate. I would like to have it by December but to be more realistic with my time, I will give myself until January 1st. 
 ------------
+
+### Day 49: November 3rd, 2017 Friday
+
+- FreeCodeCamp Basic JavaScript
+  - Iterate Through an Array with a For Loop
+  - Nesting For Loops
+  - Iterate with JavaScript While Loops
+
+**Thoughts**
+- Still working through FCC Basic JavaScript. Gaining a little more understanding day by day.
+------------
+
+### Day 50: November 5th, 2017 Sunday
+
+- Gatsby JS
+  - Create a list of the site's markdown files
+  - Programmatically creating pages from data
+
+**Thoughts**
+- Attended the DC Code and Coffee meetup today and finshed the Gatsby JS Tutorial. Was having a little trouble understanding the last part of the tutorial. This might be something that I have to revist. 
+------------

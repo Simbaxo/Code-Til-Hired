@@ -575,3 +575,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Attended the DC Code and Coffee meetup today and finshed the Gatsby JS Tutorial. Was having a little trouble understanding the last part of the tutorial. This might be something that I have to revist. 
 ------------
+
+### Day 51: November 8th, 2017 Wednesday
+
+- Displaying the State in JSX on Catch-of-the-Day app
+
+**Thoughts**
+- Started working on Wes Bos React course again. Was able to render a new function within a componenet in order to show the order status and toal for the Catch-of-the-Day app. This was done through passing down state to the render function. It was a little in depth but I'm slowing beginning to understand it more. I will continue working with React until I perfect it. I also need to get back to coding more consistently. 
+------------

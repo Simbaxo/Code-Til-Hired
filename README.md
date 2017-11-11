@@ -583,3 +583,13 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Started working on Wes Bos React course again. Was able to render a new function within a componenet in order to show the order status and toal for the Catch-of-the-Day app. This was done through passing down state to the render function. It was a little in depth but I'm slowing beginning to understand it more. I will continue working with React until I perfect it. I also need to get back to coding more consistently. 
 ------------
+
+### Day 52: November 10th, 2017 Friday
+
+- Catch of the Day
+  - Persisting our State with Firebase 
+  - Persisting Order State with localStorage 
+  
+**Thoughts**
+- Working on my Catch of the day React app. Learned how to get persisting state 2 different ways in our app. Firebase app by google is pretty cool, lets you update the data on the app in real time. Looking forward to using this in future projects. 
+------------

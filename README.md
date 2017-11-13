@@ -593,3 +593,14 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Working on my Catch of the day React app. Learned how to get persisting state 2 different ways in our app. Firebase app by google is pretty cool, lets you update the data on the app in real time. Looking forward to using this in future projects. 
 ------------
+
+### Day 53: November 12th, 2017 Sunday
+
+- Catch of the Day App
+  - Bi-directional Data Flow and Live State Editing
+  - Removing Items from State
+  - Animating React Components
+  
+**Thoughts**
+- This day was a little harder than usual. The concepts and the code was a little hard to understand. Hopefully I will keep practing on other tutorials and it will come up again and I will have a better understanding.
+------------

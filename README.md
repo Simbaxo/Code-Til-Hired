@@ -604,3 +604,21 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - This day was a little harder than usual. The concepts and the code was a little hard to understand. Hopefully I will keep practing on other tutorials and it will come up again and I will have a better understanding.
 ------------
+
+### Day 54: November 13th, 2017 Monday
+
+- Catch of the Day
+  -Component Validation with PropTypes
+
+**Thoughts**
+- Short and sweet day. Learned how to validate component with Proptypes. Will need more practice in the future to understand it better.
+------------
+
+### Day 55: November 14th, 2017 Tuesday
+
+- Catch of the Day 
+  - Authentication
+  
+**Thoughts**
+- Today was an interesting day. Went to React DC meetup and learned about managing state in React with Redux. I haven't used Redux yet but I am excited to learn. With this Catch of the Day app, I already written alot of state components and it seems like a lot to manage. Today I also added some authentication to the Catch of the Day app. I am able to login with twitter, fb, and github. I used firebase to plugin these tools into the app. Firebase seems like an awesome tool and something I will be implementing alot in future apps. Depending on how I feel tomorrow, I should be able to finish this app.
+------------

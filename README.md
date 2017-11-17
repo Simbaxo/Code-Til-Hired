@@ -20,6 +20,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 | No  |  Project Title  |  Completed On |
 | :------------: | ------------ | :------------: |
 | 1 | YelpCamp | Oct. 3, 2017 |
+| 2 | Catch of the Day | Nov. 17, 2017 |
 
 ## Completed Books
 | No  |  Book Title  |  Completed On |
@@ -629,4 +630,17 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 **Thoughts**
 - Today was definitely a learning day. I tried to import my Catch of the Day App into a subdomain hosted by my Blue Host account but unfortantly I wasn't able to get it work. I need to dedicate more time and research to see how to get my React app to upload to Blue Host. 
+------------
+
+### Day 57: November 16th, 2017 Thursday
+
+- CSS Animations
+  - Pseudo-classes
+    - :hover
+    - :focus
+    - :active
+  - Transforms
+  
+**Thoughts**
+- Started a new course today, The Advanced Web Developer Bootcamp. I took the previous course offered by Colt Steele and this one has a lot more depth about becoming a proficient web developer. I plan to take my time throught this course because it covers so many different topics. Today I started on CSS Animations. I learned 3 pseudo-classes, hover, focus, and active. Hover is when you "hover" your mouse over the elment. Focus is when you click or tap on an element which causes it to be selected or "receive focus". Active is when you press down on an elment with your mouse and it ends once you release.
 ------------

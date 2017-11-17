@@ -622,3 +622,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Today was an interesting day. Went to React DC meetup and learned about managing state in React with Redux. I haven't used Redux yet but I am excited to learn. With this Catch of the Day app, I already written alot of state components and it seems like a lot to manage. Today I also added some authentication to the Catch of the Day app. I am able to login with twitter, fb, and github. I used firebase to plugin these tools into the app. Firebase seems like an awesome tool and something I will be implementing alot in future apps. Depending on how I feel tomorrow, I should be able to finish this app.
 ------------
+
+### Day 56: November 15th, 2017 Wednesday
+
+- Catch of the Day App
+
+**Thoughts**
+- Today was definitely a learning day. I tried to import my Catch of the Day App into a subdomain hosted by my Blue Host account but unfortantly I wasn't able to get it work. I need to dedicate more time and research to see how to get my React app to upload to Blue Host. 
+------------

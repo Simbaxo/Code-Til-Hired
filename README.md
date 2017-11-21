@@ -644,3 +644,19 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Started a new course today, The Advanced Web Developer Bootcamp. I took the previous course offered by Colt Steele and this one has a lot more depth about becoming a proficient web developer. I plan to take my time throught this course because it covers so many different topics. Today I started on CSS Animations. I learned 3 pseudo-classes, hover, focus, and active. Hover is when you "hover" your mouse over the elment. Focus is when you click or tap on an element which causes it to be selected or "receive focus". Active is when you press down on an elment with your mouse and it ends once you release.
 ------------
+
+### Day 58: November 18th, 2017 Saturday
+
+- Code & Coffee Merrfield
+
+**Thoughts**
+- I went to a meet up today. Was interesting seeing so many people there. I need to start building an actual project in order to get insight from all these different developers. 
+------------
+
+### Day 59: November 20th, 2017 Monday
+
+- Dang Thats Delicious
+
+**Thoughts**
+- Started a new project to learn MongoDB, Node, Javascript, and Express. Had some trouble getting Node to update but I finally got it to work. I need a new harddrive for my MacBook because I'm running out of space. I really want a new MacBook Pro but I can't afford one right now. If I get any money back from my taxes, I may possibly put that towards a new Pro purchase.
+------------

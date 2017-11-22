@@ -660,3 +660,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Started a new project to learn MongoDB, Node, Javascript, and Express. Had some trouble getting Node to update but I finally got it to work. I need a new harddrive for my MacBook because I'm running out of space. I really want a new MacBook Pro but I can't afford one right now. If I get any money back from my taxes, I may possibly put that towards a new Pro purchase.
 ------------
+
+### Day 60: November 21st, 2017 Tuesday
+
+- React Native Nova Meetup
+
+**Thoughts**
+- Went to my first React Native meetup and it was pretty interesting. I can't wait to start learning more but I want to hold off until I get a good handle on regular React. The meetup did show a great site called snack.expo that lets you test code online and have it render directly on your phone with hot reloading. Once React is down, I will focus my attention on React/iOS apps.
+------------

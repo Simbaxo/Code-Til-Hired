@@ -668,3 +668,19 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Went to my first React Native meetup and it was pretty interesting. I can't wait to start learning more but I want to hold off until I get a good handle on regular React. The meetup did show a great site called snack.expo that lets you test code online and have it render directly on your phone with hot reloading. Once React is down, I will focus my attention on React/iOS apps.
 ------------
+
+### Day 61: December 1st, 2017 Friday
+
+- Wes Bos Learn Node
+  - Core Concepts
+    - Routing
+    - Templating
+    - Template Helpers
+    - Controllers and the MVC Pattern
+    - Middleware and Error Handling
+  - Database Storage
+    - Creating Store Model
+  
+**Thoughts**
+- Welcome Back, Welcome Back, Welcome Back... After a nice holiday break, I'm now back on the grind to close out 2017. Today went over a couple of things like routing using Express. Also learn some new things like Pug templating that seemed pretty cool and neat way of creating a webpage. Eager to learn some stuff tomorrow. Also been reading a book called Deep Work by Cal Newport that will hopefully give me some actionable advice on how to focus and learn more quickly.
+------------

@@ -684,3 +684,18 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Welcome Back, Welcome Back, Welcome Back... After a nice holiday break, I'm now back on the grind to close out 2017. Today went over a couple of things like routing using Express. Also learn some new things like Pug templating that seemed pretty cool and neat way of creating a webpage. Eager to learn some stuff tomorrow. Also been reading a book called Deep Work by Cal Newport that will hopefully give me some actionable advice on how to focus and learn more quickly.
 ------------
+
+### Day 62: December 3rd, 2017 Sunday
+
+- Wes Bos Learn Node
+  - Database Storage
+    - Saving Stores and Using Mixins
+  - Control Flow
+    - Using Async Wait
+    - Flash Messages
+    - Querying our Database for Stores
+    - Creating an Editing Flow for Stores
+    
+**Thoughts**
+- I missed Saturday due to sheer laziness but I was able to put some work in on Sunday. Alot of the Node stuff went over my head and I will have to do some research to get a better understanding on what these things are and how to use for them. Focus over Laziness is my main goal now. Hopefully I can continue this streak.
+------------

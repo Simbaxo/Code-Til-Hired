@@ -699,3 +699,14 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - I missed Saturday due to sheer laziness but I was able to put some work in on Sunday. Alot of the Node stuff went over my head and I will have to do some research to get a better understanding on what these things are and how to use for them. Focus over Laziness is my main goal now. Hopefully I can continue this streak.
 ------------
+
+### Day 63: December 4th, 2017 Monday
+
+- Wes Bos Learn Node
+  - Geolocation
+    - Saving Lat and Lng for each store
+    - Geocoding Data with Google Maps
+    
+**Thoughts**
+- Was able to add the address, lat, and lng fields to each store in order to store location information. I started doing the geocoding data with Google Maps but I was unable to get it to autocomplete the location address. Having some problems with the google api and their website doesn't make it as easy as possible. I think I was able to get the api to work but the autocomplete is still not working. I will search online and ask for help on web forms tomorrrow. 
+------------

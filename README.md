@@ -710,3 +710,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Was able to add the address, lat, and lng fields to each store in order to store location information. I started doing the geocoding data with Google Maps but I was unable to get it to autocomplete the location address. Having some problems with the google api and their website doesn't make it as easy as possible. I think I was able to get the api to work but the autocomplete is still not working. I will search online and ask for help on web forms tomorrrow. 
 ------------
+
+### Day 64: December 5th, 2017 Tuesday
+
+- Wes Bos Learn Node
+
+**Thoughts**
+- Spent today trying to get the autocomplete to work to no avail. I want to get this feature working before I move on to the rest of the course. Going to spend some time on it tomorrow and if I don't get any progress, I will move on to his ES6 course. 
+------------

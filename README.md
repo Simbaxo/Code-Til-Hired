@@ -718,3 +718,15 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Spent today trying to get the autocomplete to work to no avail. I want to get this feature working before I move on to the rest of the course. Going to spend some time on it tomorrow and if I don't get any progress, I will move on to his ES6 course. 
 ------------
+
+### Day O: January 2nd, 2017 Tuesday
+
+- JavaScript & jQuery Book
+  - Chapter 3 Functions, Methods, & Objects
+    - Basic Function
+    - Declaring & Calling a Function
+    - Declaring & Calling Functions That Need Information
+    - Getting a Single Value & Multiple Values Out of a Function
+ 
+**Thoughts** 
+- New Year, New Me? Took a little break from coding durning the holidays but now its that start of a new year and I'm ready to focus back on my misson. Picked up a JS book by Jon Duckett and began reading that again. No actual computer coding, just going to read the whole back and then go back and do the lessons. Hopefully this method makes it easier for me to understand and grasp the concepts. 

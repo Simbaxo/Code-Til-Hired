@@ -719,7 +719,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 - Spent today trying to get the autocomplete to work to no avail. I want to get this feature working before I move on to the rest of the course. Going to spend some time on it tomorrow and if I don't get any progress, I will move on to his ES6 course. 
 ------------
 
-### Day O: January 2nd, 2017 Tuesday
+### Day O: January 2nd, 2018 Tuesday
 
 - JavaScript & jQuery Book
   - Chapter 3 Functions, Methods, & Objects
@@ -730,3 +730,14 @@ This will be my personal journal to help me document my learnings. I am taking [
  
 **Thoughts** 
 - New Year, New Me? Took a little break from coding durning the holidays but now its that start of a new year and I'm ready to focus back on my misson. Picked up a JS book by Jon Duckett and began reading that again. No actual computer coding, just going to read the whole back and then go back and do the lessons. Hopefully this method makes it easier for me to understand and grasp the concepts. 
+
+### Day 1: January 3rd, 2018 Wednesday
+
+- ER Nursing Solutions
+  - About Us
+  - Contact Us
+  - Careers
+  - Footer
+  
+**Thoughts**
+- Wasn't able to read JS book today due to my own laziness but I was able to make some improvements to ER Nursing Solutions' website. Still have a couple of more features to implement before the site can go live. 

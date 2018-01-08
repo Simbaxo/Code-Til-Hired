@@ -730,6 +730,7 @@ This will be my personal journal to help me document my learnings. I am taking [
  
 **Thoughts** 
 - New Year, New Me? Took a little break from coding durning the holidays but now its that start of a new year and I'm ready to focus back on my misson. Picked up a JS book by Jon Duckett and began reading that again. No actual computer coding, just going to read the whole back and then go back and do the lessons. Hopefully this method makes it easier for me to understand and grasp the concepts. 
+------------
 
 ### Day 1: January 3rd, 2018 Wednesday
 
@@ -741,3 +742,12 @@ This will be my personal journal to help me document my learnings. I am taking [
   
 **Thoughts**
 - Wasn't able to read JS book today due to my own laziness but I was able to make some improvements to ER Nursing Solutions' website. Still have a couple of more features to implement before the site can go live. 
+------------
+
+### Day 2: January 7th, 2018 Sunday
+
+- ER Nursing Solutions
+
+**Thoughts**
+- Was finally able to finish my mom's ER Nursing Solutions business website. Next side project to focus on will be Bitcoin site. Was also able to do some non code related work by taking a How to Learn course on Coursea.  
+------------

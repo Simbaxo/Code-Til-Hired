@@ -751,3 +751,31 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Was finally able to finish my mom's ER Nursing Solutions business website. Next side project to focus on will be Bitcoin site. Was also able to do some non code related work by taking a How to Learn course on Coursea.  
 ------------
+
+### Day 3: January 8th, 2018 Monday
+
+- JS Book
+  - Chapter 3 Functions, Methods, & Objects
+    - Anonymous Functions & Function Expressions
+    - Immediately Invoked Function Expressions
+    - Variable Scope
+    - How Memory & Variables Work
+    - Objects
+    - Creating an Object: Literal Notation
+    - Accessing an Object and Dot Notation
+    - Creating an Object: Constructor Notation
+    - Updating an Object
+    - Adding and Removing Properties
+    - This (Keyword)
+    - Storing Data
+    - Arrays are Objects
+    - Browser Object Model
+    - Document Object Model
+    - Global Javascript Objects
+      - String Objects
+      - Number Objects
+      - Math Objects
+ 
+**Thoughts**
+- Did a lot of reading yesterday. Learned more about JS Objects and the DOM. Looking foward to reading some more today. Also completed Week 1 of How to Learn Course. 
+------------

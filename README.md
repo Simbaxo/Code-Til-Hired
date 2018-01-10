@@ -779,3 +779,29 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Did a lot of reading yesterday. Learned more about JS Objects and the DOM. Looking foward to reading some more today. Also completed Week 1 of How to Learn Course. 
 ------------
+
+### Day 4: January 9th, 2018 Tuesday
+
+- JS Book
+  - Chapter 3 Functions, Methods, & Objects
+    - Creating an Instance of the Date Object
+  - Chapter 4 Decisions & Loops
+    - Evaluating Conditions & Conditional Statements
+    - Comparison Operators
+    - Logical Operators
+    - If Statements
+    - If..Else Statements
+    - Switch Statements
+    - Type Coercion & Weak Typing
+    - Truthy & Falsy Values
+    - Checking Equality & Existence
+    - Short Circuit Values
+    - Loops
+    - Loop Counters
+    - For Loops
+    - While Loops
+    - Do While Loops
+    
+**Thoughts**
+- Completed Chapter 3 and most of Chapter 4 of the JS Book. Alot of the stuff was review but there were a couple of things I wasn't aware of. I will be able to finsh Chapter 4 today and start on Chapter 5 as well. 
+------------

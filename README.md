@@ -805,3 +805,23 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Completed Chapter 3 and most of Chapter 4 of the JS Book. Alot of the stuff was review but there were a couple of things I wasn't aware of. I will be able to finsh Chapter 4 today and start on Chapter 5 as well. 
 ------------
+
+### Day 5: January 10th, 2018 Wednesday
+
+- JS Book
+  - Chapter 4 Decisions & Loops
+    - Key Loop Concepts
+    - Using For Loops
+    - Using While Loops
+    - Using Do While Loops
+  - Chapter 5 Document Object Model
+    - The DOM Tree
+    - Caching DOM Queries
+    - Accessing Elements
+    - Selecting Elements Using ID Atrributes
+    
+**Thoughts**
+- Finished Chapter 4 and got started on Chapter 5. Got accepted into Google's Scholarship Program with Udacity and I'm really excited to start working on that. I need to be one of the top performers in order to recieve an additional 6 month Scholarship, so I have a tough upcoming 3 month ahead for me.
+------------
+    
+  

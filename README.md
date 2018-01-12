@@ -824,4 +824,12 @@ This will be my personal journal to help me document my learnings. I am taking [
 - Finished Chapter 4 and got started on Chapter 5. Got accepted into Google's Scholarship Program with Udacity and I'm really excited to start working on that. I need to be one of the top performers in order to recieve an additional 6 month Scholarship, so I have a tough upcoming 3 month ahead for me.
 ------------
     
-  
+### Day 6: January 11th, 2018 Thursday
+
+-JS Book
+  - Chapter 5 Document Object Model
+    - Methods that Select Individual Elements
+    
+**Thoughts**
+- Lazy day, didn't do much reading. Have to pick up the pace tomorrow and not fall into a rut.
+------------

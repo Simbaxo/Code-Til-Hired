@@ -833,3 +833,14 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Lazy day, didn't do much reading. Have to pick up the pace tomorrow and not fall into a rut.
 ------------
+
+### Day 7: January 12th, 2018 Friday
+
+- Version Control with Git
+  - Create a Git Repo
+  - Review a Repo's History
+  - Add Commits to a Repo
+  
+**Thoughts**
+- Started the Udacity course Version Control with Git and I'm learning alot of new things about Git. This course is given me alot of useful tips and commands I can use next time I'm using Git. 
+------------

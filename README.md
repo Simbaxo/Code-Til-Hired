@@ -844,3 +844,14 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Started the Udacity course Version Control with Git and I'm learning alot of new things about Git. This course is given me alot of useful tips and commands I can use next time I'm using Git. 
 ------------
+
+### Day 8: January 13th, 2018 Saturday
+
+- Grow with Google (Udacity)
+  - HTML Syntax
+  - HTML Syntax Problem Set
+  - Project: Mockup to Article
+  
+**Thoughts**
+- Completed the Version Control with Git and started the HMTL section of the Grow with Google program. It was pretty cool. Was refreshing to relearn some stuff I forgot. 
+

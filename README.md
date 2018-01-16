@@ -854,4 +854,13 @@ This will be my personal journal to help me document my learnings. I am taking [
   
 **Thoughts**
 - Completed the Version Control with Git and started the HMTL section of the Grow with Google program. It was pretty cool. Was refreshing to relearn some stuff I forgot. 
+------------
 
+### Day 9: January 15th, 2018 Monday
+
+- BC Art
+- Bitcoin Biz
+
+**Thoughts**
+- Was pretty much lazy all weekend. I need to work on how to motivate myself to study and do more work on days that I have off. Was able to do the bolierplate setup for Benja's website and the Bitcoin site as well. 
+------------

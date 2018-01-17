@@ -864,3 +864,24 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Was pretty much lazy all weekend. I need to work on how to motivate myself to study and do more work on days that I have off. Was able to do the bolierplate setup for Benja's website and the Bitcoin site as well. 
 ------------
+
+### Day 10: January 16th, 2018 Tuesday
+
+- JS Book
+  - Chapter 5 Document Object Model
+    - Selecting Elements using ID Attributes
+    - DOM Queries that return more than one Element
+    - Selecting an Element from a Nodelist
+    - Selecting Elements using Class Attributes
+    - Selecting Elements by Tag Name
+    - Selecting Elements using CSS Selectors
+    - Repeating Actions for an Entire Nodelist
+    - Looping through a Nodelist
+    - Traversing the DOM
+    - Whitespace Nodes
+    - Previous & Next Siblings
+    - First & Last Child
+ 
+**Thoughts** 
+- Today was the first day in a while I was able to check off everything I was supposed to do. It felt refreshing to be able to get everything done. Hoping to continue that tomorrow. 
+------------

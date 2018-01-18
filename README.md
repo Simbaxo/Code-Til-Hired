@@ -885,3 +885,12 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts** 
 - Today was the first day in a while I was able to check off everything I was supposed to do. It felt refreshing to be able to get everything done. Hoping to continue that tomorrow. 
 ------------
+
+### Day 11: January 17th, 2018 Wednesday
+
+- CS50 Intro to Computer Science
+  - Week 0
+
+**Thoughts**
+- Started the first half of the CS Lecture. Will finish the rest tomorrow. Also finished procastination section from Learning how to Learn course.
+------------

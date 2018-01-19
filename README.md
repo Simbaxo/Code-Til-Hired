@@ -894,3 +894,14 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Started the first half of the CS Lecture. Will finish the rest tomorrow. Also finished procastination section from Learning how to Learn course.
 ------------
+
+### Day 12: January 18th, 2018 Thursday
+
+- CS50 Intro to Computer Science
+  - Week 0
+- Intro to HTML and CSS (Udacity)
+  - HTML, CSS, and Boxes
+
+**Thoughts**
+- Today I learned about a programming language called Scratch where you can create your own interactive stories, games, and animations. My homework is to create a story which I will hopefully be able to complete by this weekend. I also learned a very important tip on web development, everything you see in the screen is a box. This makes it easy for me to create layouts on paper and recreate them in HTML with CSS. 
+------------ 

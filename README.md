@@ -928,3 +928,13 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Learning more aboout how to set up a webpage. Finished the HTML, CSS, and Boxes lesson. Tomorrow I will start Responsive Layouts and CSS Frameworks. 
 ------------
+
+### Day 15: January 21st, 2018 Sunday
+
+- Learn HTML (Codecademy)
+  - HTML Elements and Structure
+  - HTML Tables
+  
+**Thoughts**
+- Going back to the basics again by learning HTML and making sure I'm taking my time and not rushing through any assignements. 
+------------

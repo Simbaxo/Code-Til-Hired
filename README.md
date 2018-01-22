@@ -917,3 +917,14 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Going back to the basics and learning more about HTML and CSS. The biggest thing that I'm starting to understand is positioning and layout. Its finally clicking on me how to set up and layout a webpage. Also how to break it down into smaller pieces. 
 ------------
+
+### Day 14: January 20th, 2018 Saturday
+
+- Intro to HTML and CSS (Udacity)
+  - HTML, CSS, and Boxes
+    - Code, Test, Refine
+    - DevTools
+  
+**Thoughts**
+- Learning more aboout how to set up a webpage. Finished the HTML, CSS, and Boxes lesson. Tomorrow I will start Responsive Layouts and CSS Frameworks. 
+------------

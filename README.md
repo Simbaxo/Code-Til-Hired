@@ -938,3 +938,13 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Going back to the basics again by learning HTML and making sure I'm taking my time and not rushing through any assignements. 
 ------------
+
+### Day 16: January 22nd, 2018 Monday
+
+- Intro to HTML and CSS (Udacity)
+  - CSS Frameworks, Responsive Layouts
+  - Bootstrap and other Frameworks
+  
+**Thoughts**
+- Completed Udacity's Intro to HTML and CSS. I didn't complete the final project but was able to see an inside look for one of the projects they make you complete in the paid courses. In the future I believe I should complete this project. 
+------------

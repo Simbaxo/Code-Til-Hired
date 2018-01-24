@@ -948,3 +948,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Completed Udacity's Intro to HTML and CSS. I didn't complete the final project but was able to see an inside look for one of the projects they make you complete in the paid courses. In the future I believe I should complete this project. 
 ------------
+
+### Day 17: January 23rd, 2018 Tuesday
+
+- Writing READMEs (Udacity)
+
+**Thoughts**
+- Completed another Udacity course, this time on README files. They gave me some tips and resources to use in order to write better documentation for my projects. 
+------------

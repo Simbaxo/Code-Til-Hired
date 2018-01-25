@@ -956,3 +956,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Completed another Udacity course, this time on README files. They gave me some tips and resources to use in order to write better documentation for my projects. 
 ------------
+
+### Day 18: January 24th, 2018 Wednesday
+
+- KeystoneJS Tutorial
+
+**Thoughts**
+- I went through a YouTube Tutorial on KeystoneJS and it was pretty neat. I got to build a web application with cms fairly quickly. This is something I will definitely be using in the future once I build my own sites. I want to give clients the ability to sign on and manage/update their own website and this is perfect for that. 
+------------

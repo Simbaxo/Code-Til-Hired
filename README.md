@@ -964,3 +964,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - I went through a YouTube Tutorial on KeystoneJS and it was pretty neat. I got to build a web application with cms fairly quickly. This is something I will definitely be using in the future once I build my own sites. I want to give clients the ability to sign on and manage/update their own website and this is perfect for that. 
 ------------
+
+### Day 19: January 25th, 2018 Thursday 
+
+- MChampion Enterprises
+
+**Thoughts**
+- Did some fixing of Melania's Accounting and Tax website. 
+------------

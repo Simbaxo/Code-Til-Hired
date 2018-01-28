@@ -972,3 +972,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Did some fixing of Melania's Accounting and Tax website. 
 ------------
+
+### Day 20: January 26th, 2018 Friday
+
+- MChampion Enterprises
+
+**Thoughts**
+- Still putting the finishing touches on Melania's Accounting and Tax Website. 
+------------

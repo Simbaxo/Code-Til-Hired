@@ -988,3 +988,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Put the finishing touches on ER Nursing Website.
 ------------
+
+### Day 22: January 28th, 2018 Sunday
+
+- VS Code Tips (YouTube)
+
+**Thoughts**
+- Learned alot of helpful tips for VS Code and finally after months and months of search, I got the emmett commands to work in VS Code. Today was definitly a successful day.
+------------

@@ -980,3 +980,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Still putting the finishing touches on Melania's Accounting and Tax Website. 
 ------------
+
+### Day 21: January 27th, 2018 Saturday
+
+- ER Nursing 
+
+**Thoughts**
+- Put the finishing touches on ER Nursing Website.
+------------

@@ -996,3 +996,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Learned alot of helpful tips for VS Code and finally after months and months of search, I got the emmett commands to work in VS Code. Today was definitly a successful day.
 ------------
+
+### Day 23: January 29th, 2018 Monday
+
+- Parallax Website (YouTube)
+
+**Thoughts**
+- Created a basic website with a scrolling effect similar to a parallax. Really good tutorial on Youtube which help me understand CSS better and how to position images. 
+------------

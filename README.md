@@ -1004,3 +1004,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Created a basic website with a scrolling effect similar to a parallax. Really good tutorial on Youtube which help me understand CSS better and how to position images. 
 ------------
+
+### Day 24: January 30th, 2018 Tuesday
+
+- Bootstrap 4 Tutorial (YouTube)
+
+**Thoughts**
+- Created a simple website using Bootstrap 4 and SASS for my CSS. It was pretty interesting to use. Definitely makes web development much faster and quicker. 
+------------

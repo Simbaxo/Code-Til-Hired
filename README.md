@@ -1012,3 +1012,23 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Created a simple website using Bootstrap 4 and SASS for my CSS. It was pretty interesting to use. Definitely makes web development much faster and quicker. 
 ------------
+
+### Day 25: January 31st, 2018 Wednesday
+
+- Advanced Web Dev Bootcamp
+  - CSS Animations: Transform and Transitions
+    - Intro to Transform
+    - Transform: Translate
+    - Transform: Scale() and Transform-Origin
+    - Transfomr: Rotate()
+    - Vendor Prefixes
+    - Transitions Basics
+    - Transition-Duration and Transition-Property
+    - Transition-Timing-Function and Transition-Delay
+    - Transition Shorthand
+    - CSS Animation Performance
+    - Animated Gallery
+    
+**Thoughts**
+- Completed Section 2 of Advanced Web Dev Bootcamp. Learned more about Transform and Transition CSS tools. Was really fun building the image gallery with a hover effect. Looking foward into seeing more use cases for these properties in future projects. 
+------------

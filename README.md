@@ -1032,3 +1032,14 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Completed Section 2 of Advanced Web Dev Bootcamp. Learned more about Transform and Transition CSS tools. Was really fun building the image gallery with a hover effect. Looking foward into seeing more use cases for these properties in future projects. 
 ------------
+
+### Day 26: Feburary 1st, 2018 Thursday
+
+- Advanced Web Dev Bootcamp
+  - CSS Animations: Keyframes
+    - Intro to Keyframes
+    - Animated Rainbow Flashing Text
+
+**Thoughts**
+- Enjoyed my time today at the Wizards game but was also able to sneak a couple of lessons from Advanced Web Dev Bootcamp. Learned about Keyframes and how to use them with transitions to make good animations. 
+------------

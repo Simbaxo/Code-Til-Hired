@@ -1043,3 +1043,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Enjoyed my time today at the Wizards game but was also able to sneak a couple of lessons from Advanced Web Dev Bootcamp. Learned about Keyframes and how to use them with transitions to make good animations. 
 ------------
+
+### Day 27: Feburary 2nd, 2018 Friday
+
+- Eloquent JS

@@ -1047,3 +1047,36 @@ This will be my personal journal to help me document my learnings. I am taking [
 ### Day 27: Feburary 2nd, 2018 Friday
 
 - Eloquent JS
+  - Chapter 1: Values, Types, and Operators
+
+**Thoughts**
+- Finished reading the first chapter. Learned a few new tips to help me understand javascript better.
+------------
+
+### Day 28: Feburary 4th, 2018 Sunday
+
+-Advanced Web Dev Bootcamp
+  - CSS Animations: Keyframes
+    - Other CSS Animation Properties
+    - Rising and Setting Sun Animation
+    - CSS Animation Shorthand
+    - Building an Animated CSS Loading Screen
+  - Advanced CSS: Layout with Flexbox
+    - Intro to Flexbox
+    - The Magic of Display: Flex
+    - Important Flexbox Terminology
+    - Flex-Direction
+    - Flex-Wrap
+    - Justify-Content
+    - Flexbox Sidebar
+    - Align-Items
+    - Align-Content
+    - Building a Responsive Navbar
+    - Align-Self
+    - Order
+    - Flex-Basis
+    - Flex-Grow
+
+**Thoughts**
+- Spent a lot time today learning Flexbox. Great way to align items on the webpage. Wasn't able to due much coding yesterday due to laziness and Jalessa's brithday party. Made up for the missed time today. 
+------------

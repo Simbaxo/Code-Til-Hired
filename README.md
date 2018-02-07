@@ -1096,3 +1096,21 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Learned how to build a complete landing page site with Flexbox. Feeling really comfortable with Flexbox.
 ------------
+
+### Day 30: Feburary 6th, 2018 Tuesday
+
+- MongoDB for Node.js Developers (MongoDB University)
+  - CRUD
+    - The _id Field
+    - Creating Documents
+    - Reading Documents
+    - Comparison Operators
+    - Element Operators
+    - Logical Operators
+    - Regex Operator
+    - Array Operators
+    - Updating Documents
+    
+**Thoughts**
+- Worked with MongoDB today and learned some new CRUD commands to update data in a collection. 
+------------ 

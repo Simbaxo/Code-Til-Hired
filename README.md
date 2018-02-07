@@ -1055,7 +1055,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 ### Day 28: Feburary 4th, 2018 Sunday
 
--Advanced Web Dev Bootcamp
+- Advanced Web Dev Bootcamp
   - CSS Animations: Keyframes
     - Other CSS Animation Properties
     - Rising and Setting Sun Animation
@@ -1079,4 +1079,20 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 **Thoughts**
 - Spent a lot time today learning Flexbox. Great way to align items on the webpage. Wasn't able to due much coding yesterday due to laziness and Jalessa's brithday party. Made up for the missed time today. 
+------------
+
+### Day 29: Feburary 5th, 2018 Monday
+
+- Advanced Web Dev Bootcamp
+  - Advanced CSS: Layout with Flexbox
+    - Building a Polygon.com Widget
+    - Holy Grail Layout
+  - Mountain Travel (Startup Site)
+    - Nav and Header
+    - Desinations and Features
+    - Testimonials, Contact, and Footer
+    - Responsive Design
+
+**Thoughts**
+- Learned how to build a complete landing page site with Flexbox. Feeling really comfortable with Flexbox.
 ------------

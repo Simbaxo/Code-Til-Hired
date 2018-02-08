@@ -1114,3 +1114,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Worked with MongoDB today and learned some new CRUD commands to update data in a collection. 
 ------------ 
+
+### Day 31: Feburary 7th, 2018 Wednesday
+
+- Porfolio Landing Page (YouTube)
+
+**Thoughts**
+- Played around on YouTube by coding a sample porfolio page. Learned how to make a css box transparent and centered with enough padding. Also starting reading some more book on Javascript. Having trouble trying to do some challenges. Need to find a way to think about the code in greater detail in order to complete these challenges. 
+------------ 

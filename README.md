@@ -1122,3 +1122,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Played around on YouTube by coding a sample porfolio page. Learned how to make a css box transparent and centered with enough padding. Also starting reading some more book on Javascript. Having trouble trying to do some challenges. Need to find a way to think about the code in greater detail in order to complete these challenges. 
 ------------ 
+
+### Day 32: Feburary 8th, 2018 Thursday
+
+- Mena Portfolio Site (Testing)
+
+**Thoughts**
+- Trying out different layout for my personal portfolio site. I had a lot of trouble getting the nav links with the background image working correctly. Also went to a meetup for ES6 JS. Some of the stuff was intersting but was a little hard to follow just due to my lack of knowledge in programming. 
+------------ 

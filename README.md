@@ -1138,3 +1138,17 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Today was a light day. Listened to a new podcast called The JavaScript for Wordpress Show. It gives information about how to learn JS Deeply. I was also active on Reddit today by asking advice on how to learn JS coding challenges. I've recieved some solid advice that I am ready to apply towards my learning.
 ------------ 
+
+### Day 34: Febuaray 10th, 2018 Saturday
+
+- Grow With Google (Udacity)
+  - CSS Syntax
+  - CSS Syntax Problem Set
+  - How to Write Code Faster
+  - Project: Animal Trading Cards
+  - What is JS
+  - Data Types & Variables
+  
+**Thoughts**
+- Finshed a couple of sections in Grow with Google. Learned how to used CSS better. A little fustrated with the JS part because they want the answer a specific way.
+------------ 

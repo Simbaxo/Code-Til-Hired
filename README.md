@@ -1152,3 +1152,12 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Finshed a couple of sections in Grow with Google. Learned how to used CSS better. A little fustrated with the JS part because they want the answer a specific way.
 ------------ 
+
+### Day 35: Feburary 11th, 2018 Sunday
+
+- Grow with Google (Udacity)
+  - Conditionals
+  
+**Thoughts**
+- Light day, just did some small JS problems on Google's course.
+------------ 

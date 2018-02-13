@@ -1131,7 +1131,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 - Trying out different layout for my personal portfolio site. I had a lot of trouble getting the nav links with the background image working correctly. Also went to a meetup for ES6 JS. Some of the stuff was intersting but was a little hard to follow just due to my lack of knowledge in programming. 
 ------------ 
 
-### Day 33: Febuaray 9th, 2018 Friday
+### Day 33: Feburary 9th, 2018 Friday
 
 - The JS for Wordpress Show (Podcast)
 
@@ -1139,7 +1139,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 - Today was a light day. Listened to a new podcast called The JavaScript for Wordpress Show. It gives information about how to learn JS Deeply. I was also active on Reddit today by asking advice on how to learn JS coding challenges. I've recieved some solid advice that I am ready to apply towards my learning.
 ------------ 
 
-### Day 34: Febuaray 10th, 2018 Saturday
+### Day 34: Feburary 10th, 2018 Saturday
 
 - Grow With Google (Udacity)
   - CSS Syntax
@@ -1160,4 +1160,15 @@ This will be my personal journal to help me document my learnings. I am taking [
   
 **Thoughts**
 - Light day, just did some small JS problems on Google's course.
+------------ 
+
+### Day 36: Feburary 12th, 2018 
+
+- The JS Way (Book)
+  - Play with Variables
+  - Add Conditions
+  - Repeat Statements
+  
+**Thoughts**
+- Did some really good note taking for the JS Way book. Learned some more about JavaScript. Slowly getting more understanding of the JS syntax.
 ------------ 

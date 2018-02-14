@@ -1172,3 +1172,12 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Did some really good note taking for the JS Way book. Learned some more about JavaScript. Slowly getting more understanding of the JS syntax.
 ------------ 
+
+### Day 37: Feburary 13th, 2018 
+
+- The JS Way (Book)
+  - Functions
+  
+**Thoughts**
+- More of the same from yesterday. Wasn't able to study after work but atleast I'm getting some reading done early in the day. Still growing. 
+------------

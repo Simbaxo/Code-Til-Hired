@@ -1181,3 +1181,12 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - More of the same from yesterday. Wasn't able to study after work but atleast I'm getting some reading done early in the day. Still growing. 
 ------------
+
+### Day 38: Feburary 14th, 2018
+
+- Eloquent JS
+  - Functions
+  
+**Thoughts**
+- More reading about Functions today. 
+------------

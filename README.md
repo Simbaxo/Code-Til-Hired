@@ -1190,3 +1190,31 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - More reading about Functions today. 
 ------------
+
+### Day 39: Feburary 20th, 2018
+
+- NodeSchool DC
+ - JavaScripting
+  - Accessing Array Values
+  - Array Filtering
+  - Arrays
+  - For Loop
+  - Function Arguments
+  - Functions
+  - If Statements
+  - Introduction
+  - Looping Through Arrays
+  - Number to String
+  - Numbers
+  - Object Properties
+  - Objects
+  - Revising Strings
+  - Rounding Numbers
+  - Scope
+  - String Length
+  - Strings
+  - Variables
+  
+**Thoughts**
+- Went to the NodeSchool DC meetup and was able to learn JavaScript in the terminal. Completed all the excerises. Will start on the Node lessons next. 
+------------

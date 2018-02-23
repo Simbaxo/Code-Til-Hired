@@ -1194,27 +1194,35 @@ This will be my personal journal to help me document my learnings. I am taking [
 ### Day 39: Feburary 20th, 2018
 
 - NodeSchool DC
- - JavaScripting
-  - Accessing Array Values
-  - Array Filtering
-  - Arrays
-  - For Loop
-  - Function Arguments
-  - Functions
-  - If Statements
-  - Introduction
-  - Looping Through Arrays
-  - Number to String
-  - Numbers
-  - Object Properties
-  - Objects
-  - Revising Strings
-  - Rounding Numbers
-  - Scope
-  - String Length
-  - Strings
-  - Variables
+  - JavaScripting
+    - Accessing Array Values
+    - Array Filtering
+    - Arrays
+    - For Loop
+    - Function Arguments
+    - Functions
+    - If Statements
+    - Introduction
+    - Looping Through Arrays
+    - Number to String
+    - Numbers
+    - Object Properties
+    - Objects
+    - Revising Strings
+    - Rounding Numbers
+    - Scope
+    - String Length
+    - Strings
+    - Variables
   
 **Thoughts**
 - Went to the NodeSchool DC meetup and was able to learn JavaScript in the terminal. Completed all the excerises. Will start on the Node lessons next. 
+------------
+
+### Day 40: Feburary 21st, 2018
+
+- Mena Portfolio
+
+**Thoughts**
+- Finally got my nav links to work on my portfolio page. Also made a couple of sections for bio, skills, and projects.
 ------------

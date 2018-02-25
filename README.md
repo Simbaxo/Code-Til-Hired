@@ -1226,3 +1226,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Finally got my nav links to work on my portfolio page. Also made a couple of sections for bio, skills, and projects.
 ------------
+
+### Day 41: Feburary 23rd, 2018
+
+- ER Nursing Website
+
+**Thoughts**
+- Finally finished the ER Nursing Site for my mother.
+------------

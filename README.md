@@ -1234,3 +1234,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Finally finished the ER Nursing Site for my mother.
 ------------
+
+### Day 42: Feburary 25th, 2018
+
+- Mena Portfolio
+
+**Thoughts**
+- Went to Code and Coffee DC Meetup and did some work on my portfolio page. Met some interesting people. 
+------------

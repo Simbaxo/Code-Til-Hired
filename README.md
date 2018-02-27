@@ -1162,7 +1162,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 - Light day, just did some small JS problems on Google's course.
 ------------ 
 
-### Day 36: Feburary 12th, 2018 
+### Day 36: Feburary 12th, 2018 Monday
 
 - The JS Way (Book)
   - Play with Variables
@@ -1173,7 +1173,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 - Did some really good note taking for the JS Way book. Learned some more about JavaScript. Slowly getting more understanding of the JS syntax.
 ------------ 
 
-### Day 37: Feburary 13th, 2018 
+### Day 37: Feburary 13th, 2018 Tuesday
 
 - The JS Way (Book)
   - Functions
@@ -1182,7 +1182,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 - More of the same from yesterday. Wasn't able to study after work but atleast I'm getting some reading done early in the day. Still growing. 
 ------------
 
-### Day 38: Feburary 14th, 2018
+### Day 38: Feburary 14th, 2018 Wednesday
 
 - Eloquent JS
   - Functions
@@ -1191,7 +1191,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 - More reading about Functions today. 
 ------------
 
-### Day 39: Feburary 20th, 2018
+### Day 39: Feburary 20th, 2018 Tuesday
 
 - NodeSchool DC
   - JavaScripting
@@ -1219,7 +1219,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 - Went to the NodeSchool DC meetup and was able to learn JavaScript in the terminal. Completed all the excerises. Will start on the Node lessons next. 
 ------------
 
-### Day 40: Feburary 21st, 2018
+### Day 40: Feburary 21st, 2018 Wednesday
 
 - Mena Portfolio
 
@@ -1227,7 +1227,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 - Finally got my nav links to work on my portfolio page. Also made a couple of sections for bio, skills, and projects.
 ------------
 
-### Day 41: Feburary 23rd, 2018
+### Day 41: Feburary 23rd, 2018 Friday
 
 - ER Nursing Website
 
@@ -1235,10 +1235,25 @@ This will be my personal journal to help me document my learnings. I am taking [
 - Finally finished the ER Nursing Site for my mother.
 ------------
 
-### Day 42: Feburary 25th, 2018
+### Day 42: Feburary 25th, 2018 Sunday
 
 - Mena Portfolio
 
 **Thoughts**
 - Went to Code and Coffee DC Meetup and did some work on my portfolio page. Met some interesting people. 
+------------
+
+### Day 43: Feburary 26th, 2018 Monday
+
+- Advanced Web Dev Bootcamp
+  - Async Foundations
+    - Callback Functions
+    - forEach
+    - findIndex
+    - The Stack and The Heap
+    - setTimeout and setInterval
+    - countDown
+  
+**Thoughts**
+- Worked on Async Foundations which were a little confusing to wrap my head around. Something that I will need more practice with.
 ------------

@@ -1257,3 +1257,11 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Worked on Async Foundations which were a little confusing to wrap my head around. Something that I will need more practice with.
 ------------
+
+### Day 44: Feburary 27th, 2018 Tuesday
+
+- Mena Portfolio
+
+**Thoughts**
+- Attended CodeNewbie DC Meetup for the first time. Worked on my Portfolio site. I was having trouble trying to create a fixed transparent navbar that underlines the active class onScroll. Will have to continue to look into that.
+------------

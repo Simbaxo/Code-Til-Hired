@@ -1265,3 +1265,19 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Attended CodeNewbie DC Meetup for the first time. Worked on my Portfolio site. I was having trouble trying to create a fixed transparent navbar that underlines the active class onScroll. Will have to continue to look into that.
 ------------
+
+### Day 45: Feburary 28th, 2018 Wednesday
+
+- Advanced Web Dev Bootcamp
+  - Async Foundations
+    - The Event Loop and The Queue
+    - Promise Basics
+    - Promise Chaining
+
+- YelpCamp V2
+  - YelpCamp: Basics
+    - Initial Routes
+    
+**Thoughts**
+- Completed the Async Foundations on Advanced Web Dev. This section was a little challenging. The Stack, Event Loop, and The Queue are difficult to grasp without understanding why/when I will be using them. This was a section that I will likely have to review again. I also started working on YelpCamp V2 to better understand Node, Express, & MongoDB. So far so good, did the initial routes using my own terminal instead of cloud9 like before. I can also set up the res.render to view pages created using EJS.
+------------

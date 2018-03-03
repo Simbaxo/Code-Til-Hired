@@ -1281,3 +1281,16 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Completed the Async Foundations on Advanced Web Dev. This section was a little challenging. The Stack, Event Loop, and The Queue are difficult to grasp without understanding why/when I will be using them. This was a section that I will likely have to review again. I also started working on YelpCamp V2 to better understand Node, Express, & MongoDB. So far so good, did the initial routes using my own terminal instead of cloud9 like before. I can also set up the res.render to view pages created using EJS.
 ------------
+
+### Day 46: March 1st, 2018 Thursday
+
+- YelpCamp V2
+  - YelpCamp: Basics
+    - Layout
+    - Creating Campgrounds
+    - Styling Campgrounds
+    - Styling Nav and Forms
+  
+**Thoughts**
+- Finished the YelpCamp Basics section. So far so good. Didn't have any trouble and nothing was too confusing. Will recreate a new application using this format.
+------------

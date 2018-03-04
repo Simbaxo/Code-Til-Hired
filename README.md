@@ -1294,3 +1294,13 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Finished the YelpCamp Basics section. So far so good. Didn't have any trouble and nothing was too confusing. Will recreate a new application using this format.
 ------------
+
+- YelpCamp V2
+  - YelpCamp: Data Persistence
+    - Adding Mongoose
+    - Campground Show Page
+    
+**Thoughts**
+- Completed the YelpCamp Data Persistence section. 
+------------
+

@@ -1295,6 +1295,8 @@ This will be my personal journal to help me document my learnings. I am taking [
 - Finished the YelpCamp Basics section. So far so good. Didn't have any trouble and nothing was too confusing. Will recreate a new application using this format.
 ------------
 
+### Day 47: March 2nd, 2018 Friday
+
 - YelpCamp V2
   - YelpCamp: Data Persistence
     - Adding Mongoose
@@ -1304,3 +1306,18 @@ This will be my personal journal to help me document my learnings. I am taking [
 - Completed the YelpCamp Data Persistence section. 
 ------------
 
+### Day 48: March 3rd, 2018 Saturday
+
+- Advanced Web Developer Bootcamp
+  - AJAX Part 1: XHR and Fetch
+    - Into to AJAX
+    - JSON
+    - Making Our First Request with XHR
+    - AJAX Workflow
+    - Bitcoin Price Exercise
+    - Fetch Introduction
+    - Fetch Options
+
+**Thoughts**
+- Finally actually learned how to get data from an JSON file. This lessons is going to be really helpful to complete my Weather Application.
+------------

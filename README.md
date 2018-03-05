@@ -1321,3 +1321,15 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Finally actually learned how to get data from an JSON file. This lessons is going to be really helpful to complete my Weather Application.
 ------------
+
+### Day 49: March 4th, 2018 Sunday
+
+- Advanced Web Developer Bootcamp
+  - AJAX Part 1: XHR and Fetch
+    - Fetch Error Handling
+    - Fetch Random User Profile Excerise
+    - The Problem with Fetch
+    
+**Thoughts**
+- Completed the AJAX Part 1 section. Really great and helpful section. I still need more practice but I am starting to feel a little more comfortable. 
+------------

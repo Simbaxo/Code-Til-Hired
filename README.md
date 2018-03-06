@@ -1333,3 +1333,25 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Completed the AJAX Part 1 section. Really great and helpful section. I still need more practice but I am starting to feel a little more comfortable. 
 ------------
+
+### Day 50: March 5th, 2018 Monday
+
+- freeCodeCamp
+  - Basic JS
+    - Generate Random Fractions with JS
+    - Generate Random Whole Numbers with JS
+    - Generate Random Whole Numbers within a Range
+    - Sift through Text with Regular Expressions
+    - Find Numbers with Regular Expressions
+    - Find Whitespace with Regular Expressions
+    - Invert Regular Expression Matches with JavaScript
+  - Object Oriented and Functional Programming
+    - Declare JavaScript Objects as Variables
+    - Construct JavaScript Objects with Functions
+    - Make Instances of Objects with a Constructor Function
+    - Make Unique Objects by Passing Parameters to our Constructor
+    - Make Object Properties Private
+    
+**Thoughts**
+- Did some coding challenges on fcc.
+------------

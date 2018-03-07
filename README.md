@@ -1355,3 +1355,15 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Did some coding challenges on fcc.
 ------------
+
+### Day 51: March 6th, 2018 Tuesday
+
+- Grow with Google (Udacity)
+  - JavaScript
+    - Conditionals
+    - Loops
+    - Functions
+    
+**Thoughts**
+- Completed 3 Udacity JS sections today. Not a big fan of their in editor browser tool. Makes you have to answer their questions specifically to be correct even if you have the correct answer yourself. 
+------------

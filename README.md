@@ -1367,3 +1367,22 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Completed 3 Udacity JS sections today. Not a big fan of their in editor browser tool. Makes you have to answer their questions specifically to be correct even if you have the correct answer yourself. 
 ------------
+
+### Day 52: March 7th, 2018 Wednesday
+
+- freeCodeCamp
+  - Object Oriented and Functional Programming
+    - Iterate over Arrays with .map
+    - Condense arrays with .reduce
+    - Filter Arrays with .filter
+    - Sort Arrays with .sort
+    - Reverse Arrays with .reverse
+    - Concatenate Arrays with .concat
+    - Split Strings with .split
+    - Join Strings with .join
+  - Basic Algorithm Scipting
+    - Reverse a String Incomplete
+    
+**Thoughts**
+- Completed a couple of challenges on fcc and also went to (accidently) an advanced JS workshop.
+------------

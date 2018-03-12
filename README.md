@@ -1386,3 +1386,9 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Completed a couple of challenges on fcc and also went to (accidently) an advanced JS workshop.
 ------------
+
+### Day 53: March 8th, 2018 Thursday
+
+### Day 54: March 9th, 2018 Friday
+
+### Day 55: March 10th, 2018 Saturday

@@ -1389,6 +1389,75 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 ### Day 53: March 8th, 2018 Thursday
 
+- YelpCamp V2
+  - YelpCamp: Comments
+    - Refactoring App.js
+
+**Thoughts**
+- Working on YelpCamp V2
+------------
+
 ### Day 54: March 9th, 2018 Friday
 
+- YelpCamp V2
+  - YelpCamp: Comments
+    - Seeding the Database
+
+**Thoughts**
+- Working on YelpCamp V2
+------------
+
 ### Day 55: March 10th, 2018 Saturday
+
+- YelpCamp V2
+  - YelpCamp: Comments
+    - Comment Model
+
+**Thoughts**
+- Working on YelpCamp V2
+------------
+
+### Day 56: March 11th, 2018 Sunday
+
+- YelpCamp V2
+  - YelpCamp: Comments
+    - Creating Comments Part 1
+
+**Thoughts**
+- Working on YelpCamp V2
+------------
+
+### Day 57: March 12th, 2018 Monday
+
+- YelpCamp V2
+  - YelpCamp: Comments
+    - Creating Comments Part 2
+
+**Thoughts**
+- Working on YelpCamp V2
+------------
+
+### Day 58: March 13th, 2018 Tuesday
+
+- YelpCamp V2
+  - YelpCamp: Comments
+    - Styling Comments Part 1
+    - Styling Comments Part 2
+- Programming for the Web with JS
+  - Week 1
+    - Basics of the World Wide Web
+
+**Thoughts**
+- Finished working on YelpCamp Comments. Starting Week 1 of Penn U class. Learned more about how the Web works. 
+------------
+
+### Day 59: March 14th, 2018 Wednesday
+
+- Programming for the Web with JS
+  - Week 1
+    - Developing Web Pages with HTML
+    - Homework 1: HTML 
+
+**Thoughts**
+- Finished Week 1 of Penn U class. Homework was pretty interesting, refacting HTML into a separate CSS file. 
+------------

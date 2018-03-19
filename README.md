@@ -1461,3 +1461,51 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Finished Week 1 of Penn U class. Homework was pretty interesting, refacting HTML into a separate CSS file. 
 ------------
+
+### Day 60: March 15th, 2018 Thursday
+
+- YelpCamp V2
+  - YelpCamp: Adding Authentication
+    - Add User Model
+    
+**Thoughts**
+- Working on YelpCamp V2
+------------
+
+### Day 61: March 16th, 2018 Friday
+
+- YelpCamp V2
+  - YelpCamp: Adding Authentication
+    - Registeration Page
+
+**Thoughts**
+- Working on YelpCamp V2
+------------
+
+### Day 62: March 17th, 2018 Saturday
+
+- YelpCamp V2
+  - YelpCamp: Adding Authentication
+    - Login Logic
+    - Logout Logic
+    - Current User Links
+
+**Thoughts**
+- Working on YelpCamp V2
+------------
+
+### Day 63: March 18th, 2018 Sunday
+
+- YelpCamp V2
+  - YelpCamp: Adding Authentication
+    - Refactor Routes
+    - Users added to comments
+    - Users added to campgrounds
+ 
+- CS50
+  - Week 0
+    - Basketball Project
+
+**Thoughts**
+- Working on YelpCamp V2
+------------

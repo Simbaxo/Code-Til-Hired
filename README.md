@@ -1509,3 +1509,15 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Working on YelpCamp V2
 ------------
+
+### Day 64: March 19th, 2018 Monday
+
+- Grow With Google (Udacity)
+  - jQuery
+    - The Basics: the Dom, $, and Selectors
+    - The Tricks: DOM Manipulation
+    - Event Listeners with jQuery
+    
+**Thoughts**
+- Finished the Grow with Google Udacity challenge. The course was okay, had some problems with their strict answers on their coding challenges. Pretty hard to keep up with the Slack community so I don't think I will be selected for Round 2 scholarships. Overrall, I did learn some new techniques and I am a better developer. 
+------------

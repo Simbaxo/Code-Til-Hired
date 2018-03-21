@@ -1521,3 +1521,26 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Finished the Grow with Google Udacity challenge. The course was okay, had some problems with their strict answers on their coding challenges. Pretty hard to keep up with the Slack community so I don't think I will be selected for Round 2 scholarships. Overrall, I did learn some new techniques and I am a better developer. 
 ------------
+
+### 65: March 20th, 2018 Tuesday
+
+- YelpCamp V2
+  - YelpCamp: Update & Destroy
+    - Campground Edit and Update
+    - Campground Destroy
+    - Campground Authorization
+    - Comment Edit & Update
+    - Comment Destroy
+    - Comment Authorization
+    
+- Programming for the Web with JavaScript
+  - Week 2
+    - Intro to JavaScript
+    - JavaScript Variables
+    - JavaScript Arrays and Objects
+    - JavaScript Control Structures
+    - JavaScript Functions
+    
+**Thoughts**
+- Completed the YelpCamp Edit & Destroy Section. Also start on some PennX videos. Overrall today was a very productive day.
+------------

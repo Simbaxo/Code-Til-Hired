@@ -1544,3 +1544,9 @@ This will be my personal journal to help me document my learnings. I am taking [
 **Thoughts**
 - Completed the YelpCamp Edit & Destroy Section. Also start on some PennX videos. Overrall today was a very productive day.
 ------------
+
+### Day 66: March 21st, 2018 Wednesday
+
+### Day 67: March 22nd, 2018 Thursday
+
+### Day 68: March 23rd, 2018 Friday

@@ -1550,3 +1550,5 @@ This will be my personal journal to help me document my learnings. I am taking [
 ### Day 67: March 22nd, 2018 Thursday
 
 ### Day 68: March 23rd, 2018 Friday
+
+### Day 69:

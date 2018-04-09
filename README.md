@@ -1551,4 +1551,16 @@ This will be my personal journal to help me document my learnings. I am taking [
 
 ### Day 68: March 23rd, 2018 Friday
 
-### Day 69:
+### Day 69: March 25th, 2018 Sunday
+
+### Day 70: March 26th, 2018 Monday
+
+### Day 71: March 27th, 2018 Tuesday
+
+### Day 72: March 28th, 2018 Wednesday
+
+### Day 73: March 29th, 2018 Thursday
+
+### Day 74: March 30th, 2018 Friday
+
+### Day 75: March 31st, 2018 Saturday

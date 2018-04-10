@@ -1564,3 +1564,19 @@ This will be my personal journal to help me document my learnings. I am taking [
 ### Day 74: March 30th, 2018 Friday
 
 ### Day 75: March 31st, 2018 Saturday
+
+### Day 76: April 1st, 2018 Sunday
+
+### Day 77: April 2nd, 2018 Monday
+
+### Day 78: April 3rd, 2018 Tuesday
+
+### Day 79: April 4th, 2018 Wednesday
+
+### Day 80: April 5th, 2018 Thursday
+
+### Day 81: April 6th, 2018 Friday
+
+### Day 82: April 7th, 2018 Saturday
+
+### Day 83: April 8th, 2018 Sunday

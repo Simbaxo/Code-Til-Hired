@@ -1580,3 +1580,7 @@ This will be my personal journal to help me document my learnings. I am taking [
 ### Day 82: April 7th, 2018 Saturday
 
 ### Day 83: April 8th, 2018 Sunday
+
+### Day 84: April 9th, 2018 Monday
+
+### Day 85: April 10th, 2018 Tuesday

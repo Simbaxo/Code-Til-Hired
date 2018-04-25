@@ -25,6 +25,8 @@ This will be my personal journal to help me document my learnings. I am taking [
 ## Completed Books
 | No  |  Book Title  |  Completed On |
 | :------------: | ------------ | :------------: |
+| 1 | YDKJS: Up & Going | Apr. 4, 2018 |
+| 2 | YDKJS: Scopes & Closures | Apr. 24, 2018 |
 
 ## Progress Log
 
